@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FlowTimeModelStoreContainer" CdmEntityContainer="FlowTimeEntities">
+    <EntitySetMapping Name="Usuarios">
+      <EntityTypeMapping TypeName="FlowTimeModel.Usuarios">
+        <MappingFragment StoreEntitySet="Usuarios">
+          <ScalarProperty Name="Usuario_id" ColumnName="Usuario_id" />
+          <ScalarProperty Name="NombreCompleto" ColumnName="NombreCompleto" />
+          <ScalarProperty Name="NombreUsuario" ColumnName="NombreUsuario" />
+          <ScalarProperty Name="Contrasena" ColumnName="Contrasena" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cronometro">
+      <EntityTypeMapping TypeName="FlowTimeModel.Cronometro">
+        <MappingFragment StoreEntitySet="Cronometro">
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="TiempoEstudio" ColumnName="TiempoEstudio" />
+          <ScalarProperty Name="TiempoDescanso" ColumnName="TiempoDescanso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

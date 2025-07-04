@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="FlowTime.exe" version="1.0.0.0" publicKeyToken="ab08183d24b29b1a" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="ProyectoLogo_001.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FlowTime" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FlowTime.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CircularProgressBar.dll" size="17408">
+      <assemblyIdentity name="CircularProgressBar" version="2.8.0.16" publicKeyToken="310FD07B25DF79B3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8tjGstT98CCmBQ3aU2UbOJXQzW/WoFfLgMukRsXrG5I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5225168">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nCD7KthqdgsMauvZMByQCYkdAq4UcgqTkmwLU1uK0Js=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="622288">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4OEmw7inupUB0D+Z1Upcu9F0vOy2FwCYq0zBIZ8n+TM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlowTime.exe" size="4291536">
+      <assemblyIdentity name="FlowTime" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>EK6quIa9GxOgYiMj9GuoNSqzVDyD5mdL/4SIxFQX+BI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinFormAnimation.dll" size="38400">
+      <assemblyIdentity name="WinFormAnimation" version="1.6.0.4" publicKeyToken="310FD07B25DF79B3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>2QUnKbVg2BnI11FJtsqSxIueGxsMyqUAgKdBZtuOqhI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="clock_104906.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Y4onaUpLmTe9YUwRfZyiQ3uorRyq9SSLNSRT3B5a/Ck=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="FlowTime.exe.config" size="2098">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lu9sv5INVy4X81nhMdOoyNOI8IsEnDFJLe+ZIf3frYE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Model.Context.tt" size="22929">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>J2TH+QHRSBRGLZojTXWg+B6PuAIDz7vUuiHZ/YvndzI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Model.tt" size="25274">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>onO2Ot1iK1V64VOsaY3q1ridq8xs86Uq5kgcZvZpQx4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ProyectoLogo.ico" size="165950">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JSz41xDBFLKyD81GAqhQZtT6DTKHuhPRWB1oJl8Pvxw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ProyectoLogo_001.ico" size="165950">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JSz41xDBFLKyD81GAqhQZtT6DTKHuhPRWB1oJl8Pvxw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LUGASMONITOR\gearL" issuerKeyHash="78fa11c6820519eb76ba295d872edf2c1b1113c1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>QFComqmY4Wl9N4KK1+6xDNMdNAKB43T4Uu/3ZyO5/Ec=</DigestValue></Reference></SignedInfo><SignatureValue>JFqVPbqFkdALUy6e89tOHe6E8ICtjSH8zVaUq2YQAwIH94gdRFWgWi+Hb3Pc3hKxyCnvCQ7EJFGwRITpYO9PKn3aHaPCiNNeWmsBhM7DD5iQylpT5kGzgJ1g034HPvY9qkSsflmdRWCgzRYPw/94L75X658fAdo43AwKGJ0uSDc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1nfpprTK5lYgiH+NKPTWA5/TSUPnRIHx2qHmZmezKpEB5nMudl3YPQG6x17JVvMt4F4wGzoeHZt/yIoC5Ja9gWCuH2+W4iUTnGF1j2oJBw/iJHI9ZPh5nwASq+58dng7O9M29CemD8tdbjPFwsP8PsyzpdRS1phsGx5rmyD4TV0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="47fcb92367f7ef52f874e38102341dd30cb1eed78a82377d69e198a99aa85040" Description="" Url=""><as:assemblyIdentity name="FlowTime.exe" version="1.0.0.0" publicKeyToken="ab08183d24b29b1a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LUGASMONITOR\gearL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/sFAVSmlrlKbv5ReLrn6LMOmh5fnXvYcuVAF7bcoZOM=</DigestValue></Reference></SignedInfo><SignatureValue>TDucwUaT232brtbpDk5FGyydnOoPYTh5gtZKPQsXkyU354R9R1Ojf1h0f3iL7k0+xjyPRLZgcBb/Y5YlBkJd+yCpk49TsausU37UZA5hRWpaQTVbnv3qYF3SVyVmqT0oGjh5bXDikWb7sgGjx3qmULNRy4CWc9bFNmhO/780ytw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1nfpprTK5lYgiH+NKPTWA5/TSUPnRIHx2qHmZmezKpEB5nMudl3YPQG6x17JVvMt4F4wGzoeHZt/yIoC5Ja9gWCuH2+W4iUTnGF1j2oJBw/iJHI9ZPh5nwASq+58dng7O9M29CemD8tdbjPFwsP8PsyzpdRS1phsGx5rmyD4TV0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQeET5ek0e7YdKaeW8ZTIiQjANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQATABVAEcAQQBTAE0ATwBOAEkAVABPAFIAXABnAGUAYQByAEwwHhcNMjQwNjA3MTEyNjM3WhcNMjUwNjA3MTcyNjM3WjAvMS0wKwYDVQQDHiQATABVAEcAQQBTAE0ATwBOAEkAVABPAFIAXABnAGUAYQByAEwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANZ36aa0yuZWIIh/jSj01gOf00lD50SB8dqh5mZnsyqRAeZzLnZd2D0BusdeyVbzLeBeMBs6Hh2bf8iKAuSWvYFgrh9vluIlE5xhdY9qCQcP4iRyPWT4eZ8AEqvufHZ4OzvTNvQnpg/LXW4zxcLD/D7Ms6XUUtaYbBsea5sg+E1dAgMBAAEwDQYJKoZIhvcNAQELBQADgYEABnYcInorkF4wZSrBqhtRsNESkyAtIUD5qgGL00MCiaCYffPTbFw3gajjZytQgqTH6fSdQ80whXUKN0gPJHD0bnvgLbwmKprgLsBZnQumxxLJiJG0QTo1UHpliKm1JvrwBWHyKukIIdpk4tfmS0S4WgldHZ/h2KHQMSjxMDcvYr4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

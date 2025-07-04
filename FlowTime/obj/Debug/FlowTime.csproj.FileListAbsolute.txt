@@ -1,0 +1,255 @@
+C:\Users\Walte\source\repos\FlowTime\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\Walte\source\repos\FlowTime\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\Walte\source\repos\FlowTime\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\Walte\source\repos\FlowTime\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\Walte\source\repos\FlowTime\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walte\source\repos\FlowTime\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\Walte\source\repos\FlowTime\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.Pantalla_Inicial.resources
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\Walte\source\repos\FlowTime\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Downloads\Avance\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Downloads\Avance\FlowTime\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Downloads\Avance\FlowTime\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Pantalla_Inicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\Proyecto progreso\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Pantalla_Inicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime\FlowTime\obj\Debug\FlowTime.Graficas.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.Graficas.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.Pantalla_Inicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - copia\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pantalla_Inicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Beta\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.calendarioAnimo.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.estadosDeAnimo.resources
+C:\Users\gearL\Desktop\Documentos de laptop\Tec San Pedro (6to Semestre)\Ingenieria de Software\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\Pruebas1.Notas.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.calendarioAnimo.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.estadosDeAnimo.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\Pruebas1.Notas.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pantalla_Inicial.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\erika\Videos\Nueva carpeta\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.calendarioAnimo.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.estadosDeAnimo.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\Pruebas1.Notas.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pantalla_Inicial.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Downloads\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.calendarioAnimo.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.estadosDeAnimo.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\Pruebas1.Notas.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\ProyectoOmega1\ProyectoFlowtime_Omega\Proyecto\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.calendarioAnimo.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.estadosDeAnimo.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\Pruebas1.Notas.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\FlowTime - Omega\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\FlowTime.exe.config
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\EntityFramework.dll
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\EntityFramework.xml
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.csproj.AssemblyReference.cache
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.calendarioAnimo.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.Descanso.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.Estadisticas.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.estadosDeAnimo.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.frmInicioSesion.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.Inicio.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.InterfazInicial.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.Pomodoro.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.Properties.Resources.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.csproj.GenerateResource.cache
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.csproj.CoreCompileInputs.cache
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.csproj.CopyComplete
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.exe
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.pdb
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\CircularProgressBar.dll
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\WinFormAnimation.dll
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\CircularProgressBar.xml
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.Tutorial.resources
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\FlowTime.exe.manifest
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\bin\Debug\FlowTime.application
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.exe.manifest
+C:\Users\gearL\Desktop\Proyecto Final - VersionFinal\Flowtime\FlowTime\obj\Debug\FlowTime.application
